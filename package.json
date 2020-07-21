@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/freeman1306/REST-API_fullstack_app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^8.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
